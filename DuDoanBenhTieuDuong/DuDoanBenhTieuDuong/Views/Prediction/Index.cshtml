@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Diabetes Prediction";
+}
+
+<h2>Dự đoán tiểu đường</h2>
+
+<form asp-action="Predict" method="post">
+    <div class="form-group">
+        <label for="inputData">Input Data (comma-separated):</label>
+        <input type="text" id="inputData" name="inputData" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Predict</button>
+</form>
+
+@if (ViewBag.Prediction != null)
+{
+    <br /><p>Dữ liệu của bệnh nhân như sau: @ViewBag.InputData</p>
+    <div class="alert alert-info mt-3">
+        <strong>Kết quả dự đoán:</strong> @ViewBag.Prediction.Result <br />
+        <strong>Xác suất (Giá trị dự đoán):</strong> @ViewBag.Prediction.Prediction
+    </div>
+}
