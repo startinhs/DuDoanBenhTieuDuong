@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\",
+  "WorkspaceRootPath": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|solutionrelative:dudoanbenhtieuduong\\dudoanbenhtieuduong.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|solutionrelative:dudoanbenhtieuduong\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\views\\prediction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\views\\prediction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|solutionrelative:dudoanbenhtieuduong\\views\\prediction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\models\\predictmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\models\\predictmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|solutionrelative:dudoanbenhtieuduong\\models\\predictmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|solutionrelative:dudoanbenhtieuduong\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|solutionrelative:dudoanbenhtieuduong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|d:\\documents\\github\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\dudoanbenhtieuduong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6042FD72-C6A0-443F-9673-A5BE02B0FA74}|DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj|solutionrelative:dudoanbenhtieuduong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,89 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T15:20:45.368Z",
+              "DocumentIndex": 0,
+              "Title": "DuDoanBenhTieuDuong",
+              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
+              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
+              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
+              "RelativeToolTip": "DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T07:51:04.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Program.cs",
-              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Program.cs",
-              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Program.cs",
-              "RelativeToolTip": "DuDoanBenhTieuDuong\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T15:19:10.742Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DuDoanBenhTieuDuong\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T15:20:45.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
-              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
-              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
-              "RelativeToolTip": "DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T15:15:47.941Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Program.cs",
+              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Program.cs",
+              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Program.cs",
+              "RelativeToolTip": "DuDoanBenhTieuDuong\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:19:10.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PredictModel.cs",
-              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
-              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
-              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
-              "RelativeToolTip": "DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T15:10:41.178Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
+              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
+              "RelativeToolTip": "DuDoanBenhTieuDuong\\Views\\Prediction\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T15:15:47.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "PredictModel.cs",
+              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
+              "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
+              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
+              "RelativeToolTip": "DuDoanBenhTieuDuong\\Models\\PredictModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:10:41.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PredictionController.cs",
-              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Controllers\\PredictionController.cs",
+              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Controllers\\PredictionController.cs",
               "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Controllers\\PredictionController.cs",
-              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Controllers\\PredictionController.cs",
+              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Controllers\\PredictionController.cs",
               "RelativeToolTip": "DuDoanBenhTieuDuong\\Controllers\\PredictionController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAkwCkAAAANAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwBsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T15:07:48.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Startup.cs",
+              "DocumentMoniker": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Startup.cs",
               "RelativeDocumentMoniker": "DuDoanBenhTieuDuong\\Startup.cs",
-              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Startup.cs",
+              "ToolTip": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\Startup.cs",
               "RelativeToolTip": "DuDoanBenhTieuDuong\\Startup.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAADwvzUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T15:06:27.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T15:06:27.016Z"
             }
           ]
         }

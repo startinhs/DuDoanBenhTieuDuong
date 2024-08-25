@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net8.0": {
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -575,12 +575,12 @@
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -6254,7 +6254,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net8.0": [
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5",
       "Newtonsoft.Json >= 13.0.3"
     ]
@@ -6265,26 +6265,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
+      "projectUniqueName": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
       "projectName": "DuDoanBenhTieuDuong",
-      "projectPath": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
+      "projectPath": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong.csproj",
       "packagesPath": "C:\\Users\\lemin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\obj\\",
+      "outputPath": "D:\\Documents\\GITHUB\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\DuDoanBenhTieuDuong\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lemin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -6300,8 +6301,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
@@ -6331,7 +6332,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
